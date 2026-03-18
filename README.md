@@ -6,7 +6,7 @@
 **Difficulty Level**: Beginner  
 **Database Used**: `p1_retail_db`
 
-This project demonstrates essential SQL skills used in data analysis. It includes database creation, data cleaning, exploratory data analysis (EDA), and solving real-world business problems using SQL queries. This project is ideal for beginners who want hands-on experience.
+This project demonstrates essential SQL skills used in data analysis. It includes database creation, data cleaning, exploratory data analysis (EDA), and solving real-world business problems using SQL queries.
 
 ---
 
@@ -210,8 +210,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 
 ## How to Use
 
-1. **Clone the Repository**: Clone this project repository from GitHub.
-2. **Set Up the Database**: Run the SQL scripts provided in the `database_setup.sql` file to create and populate the database.
-3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
-4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
+1. **Set Up the Database**: Run the SQL scripts provided in the `database_setup.sql` file to create and populate the database.
+2. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
+3. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
