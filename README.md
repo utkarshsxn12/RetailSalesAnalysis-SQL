@@ -1,6 +1,6 @@
-# 🛒 Retail Sales Analysis SQL Project
+#  Retail Sales Analysis SQL Project
 
-## 📌 Project Summary
+## Project Summary
 
 **Project Name**: Retail Sales Analysis  
 **Difficulty Level**: Beginner  
@@ -10,7 +10,7 @@ This project demonstrates essential SQL skills used in data analysis. It include
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Create and set up a retail sales database  
 - Clean the dataset by removing missing values  
